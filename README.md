@@ -1,6 +1,6 @@
 # Hi, I'm Sharifa 👋
 
-A Computer Science student at King Abdulaziz University,
+Computer Science Specialist,
 passionate about AI, DL, LLMs.
 
 ---
