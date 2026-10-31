@@ -20,8 +20,6 @@
 
 - Artificial intelligence, deep learning and LLMs
 - Applied machine learning
-- In-browser tools that keep user data on the device
-- Arabic-first, mobile-first interfaces
 
 ---
 
